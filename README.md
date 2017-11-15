@@ -1,4 +1,4 @@
-## My Solution of Facial Emotion Recognization in Kaggle
+# My Solution of Facial Emotion Recognization in Kaggle
 This is my solution of [Facial Emotion Recognization in Kaggle](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/).
 The motivation of this task is to recognize humans' facial emotion in natual environment, which is fun but a little difficult. The reason for this is the facial emotions on people's face are always neutral, such as it is difficult to distingnish happy and surprise at the same time. 
 ******
@@ -16,11 +16,10 @@ so long as you clearly cite your sources in your code and your writeup.
 * [model.json](https://github.com/zlpure/Facial-Expression-Recognition/blob/master/model.json)
 ******
 This is the snapshot of my architecture of deep conv network.
-＜/br＞
+＜br＞
 ![image](https://github.com/zlpure/Facial-Expression-Recognition/blob/master/convnet.png)
-
 ******
-If you look for the complete data and weights, you can goto [Baidu Cloud disk](http://pan.baidu.com/s/1o8FNtoQ), password:orzv. It incldes raw tar.gz data, my neural network strcture json file, weights zip file, and the data and label after compressing raw data into hdf5 format files.
+If you look for the complete data and weights, you can goto [Baidu Cloud disk](http://pan.baidu.com/s/1o8FNtoQ), password: orzv.  It incldes raw tar.gz data, my neural network strcture json file, weights zip file, and the data and label after compressing raw data into hdf5 format files.
 
 ## Dependencies
 * Anaconda
