@@ -5,6 +5,7 @@ The motivation of this task is to recognize humans' facial emotion in natual env
 The data consists of 48x48 pixel grayscale images of faces. And there are more than 30000 samples. The task is to categorize each face based on the emotion shown in the facial expression in to one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral). 
 ******
 This is the snapshot of the facial emotion dataset.
+<br>
 ![image](https://github.com/zlpure/Facial-Expression-Recognition/blob/master/face_picture.png)
 ******
 **Note:** If you consult my code that you may want to incorporate into your strategy or algorithm, 
@@ -16,7 +17,6 @@ so long as you clearly cite your sources in your code and your writeup.
 * [model.json](https://github.com/zlpure/Facial-Expression-Recognition/blob/master/model.json)
 ******
 This is the snapshot of my architecture of deep conv network.
-＜br＞
 ![image](https://github.com/zlpure/Facial-Expression-Recognition/blob/master/convnet.png)
 ******
 If you look for the complete data and weights, you can goto [Baidu Cloud disk](http://pan.baidu.com/s/1o8FNtoQ), password: orzv.  It incldes raw tar.gz data, my neural network strcture json file, weights zip file, and the data and label after compressing raw data into hdf5 format files.
