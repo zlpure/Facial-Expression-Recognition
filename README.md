@@ -1,4 +1,4 @@
-# My Solution of Facial Emotion Recognization in Kaggle
+# My Solution to Facial Emotion Recognization in Kaggle competition
 This is my solution to [Facial Emotion Recognization in Kaggle](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/).
 The motivation of this task is to recognize humans' facial emotions in the natural environment, which is fun but a little difficult. The reason for this is the facial emotions on people's faces are always neutral, that is to say, it is difficult to distinguish if a person is happy or surprise, simultaneously. 
 ******
